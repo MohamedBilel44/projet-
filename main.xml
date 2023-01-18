@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+<ImageView android:id="@+id/image"
+
+android:src="@drawble/estore.png"
+
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:maxHeight="200px"
+android:adjustViewBounds="true"
+android:scaleType="centerCrop"
+/>
+</LinearLayout>
